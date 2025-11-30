@@ -18,8 +18,8 @@ Duration|
 Uploaded dataset: netflix_data.csv
 
 # ELT Workflow 
-Extract |
-Pulled raw Netflix data from CSV |
+Extract ---
+Pulled raw Netflix data from CSV ---
 Validated file format, column types, and missing values
 
 # Load
